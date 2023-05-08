@@ -1,0 +1,1 @@
+export const generFunc = (req,res)=> {return res.send('hola')}
